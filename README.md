@@ -1,7 +1,7 @@
 # Data-Scrambler-Project  
 This project was created with SSMS , a MSSQL server application that scrambles sensitive data in RDBMS according to their datatypes which can later be used for the purpose of testing.  
   
--TECH STACK:
+-TECH STACK:  
 --Transact SQL  
 --RDBMS Database usage  
 --Linked server Connections.  
